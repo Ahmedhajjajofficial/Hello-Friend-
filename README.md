@@ -1,6 +1,8 @@
 # Hello-Friend-
 About Mr. Robot Egypt 
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/ahmedhajjajofficial.svg)](https://pkg.go.dev/github.com/ahmedhajjajofficial)
+
 <h3 align="center">Hi there 👋</h3>
 
 <p align="center">
